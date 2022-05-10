@@ -1,0 +1,33 @@
+{
+    "keyboard_name": "halfSplit",
+    "url": "",
+    "maintainer": "Homealone944",
+    "width": 7,
+    "height": 3,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"K00 (D1,C6)", "x":0, "y":0},
+                {"label":"K01 (D1,D7)", "x":1, "y":0},
+                {"label":"K02 (D1,E6)", "x":2, "y":0},
+                {"label":"K03 (D1,B6)", "x":3, "y":0},
+                {"label":"K04 (D1,B2)", "x":4, "y":0},
+                {"label":"K05 (D1,B3)", "x":5, "y":0},
+                {"label":"K10 (D0,C6)", "x":0, "y":1},
+                {"label":"K11 (D0,D7)", "x":1, "y":1},
+                {"label":"K12 (D0,E6)", "x":2, "y":1},
+                {"label":"K13 (D0,B6)", "x":3, "y":1},
+                {"label":"K14 (D0,B2)", "x":4, "y":1},
+                {"label":"K15 (D0,B3)", "x":5, "y":1},
+                {"label":"K16 (D0,B1)", "x":6, "y":1},
+                {"label":"K20 (D4,C6)", "x":0, "y":2},
+                {"label":"K21 (D4,D7)", "x":1, "y":2},
+                {"label":"K22 (D4,E6)", "x":2, "y":2},
+                {"label":"K23 (D4,B6)", "x":3, "y":2},
+                {"label":"K24 (D4,B2)", "x":4, "y":2},
+                {"label":"K25 (D4,B3)", "x":5, "y":2},
+                {"label":"K26 (D4,B1)", "x":6, "y":2}
+            ]
+        }
+    }
+}
